@@ -1,0 +1,18 @@
+INFO    2020-09-24 00:11:01,278 [main] BasePage  - Successfully Loaded OR property file
+INFO    2020-09-24 00:11:01,281 [main] BasePage  - Successfully Loaded config property file
+INFO    2020-09-24 00:11:12,208 [main] BasePage  - Chrome driver successfully setup
+INFO    2020-09-24 00:11:13,224 [main] BasePage  - DB Connection Successfully done!!!
+INFO    2020-09-24 00:11:18,552 [main] BasePage  - URL Fetched
+INFO    2020-09-24 00:11:18,706 [main] BasePage  - Implicit Wait
+INFO    2020-09-24 00:11:27,679 [main] BasePage  - Text has been Entered Sucessfully for SSOimg_Xpath
+INFO    2020-09-24 00:11:39,629 [main] BasePage  - Text has been Entered Sucessfully for SSL2text_Xpath
+INFO    2020-09-24 00:11:39,630 [main] BasePage  - Company found Successfully
+INFO    2020-09-24 00:12:11,783 [main] BasePage  - Error while locating element: SSOimg_Xpath
+ Error Message is: chrome not reachable
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'INGGNEL8RQFPQ2', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\POOJA-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65349}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b207501d1386fc0ba58ac8d5b4482549
+*** Element info: {Using=xpath, value=//*[@id='main-content']/div/div[2]/ul[2]/li[14]/a/img}
